@@ -11,7 +11,7 @@ A) Introduction:
       Game 2: Roll the Dice         
       Game 3: Higher or Lower         
       Game 4: Guess the Lyrics      
-   Little skill are required and the purpose is to get to the end of the game without losing
+   Little skills are required and the purpose is to get to the end of the game without losing
    at any point.  
     
 B) Known Bugs and/or Errors:     
